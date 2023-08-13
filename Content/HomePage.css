@@ -1,0 +1,179 @@
+﻿body {
+}
+
+.logoImage{
+    box-sizing:border-box;
+
+}
+
+.dealRect1{
+    /*
+        i know i can make a rectangle using css
+    */
+
+    box-sizing:border-box;
+    width:300px;
+    height:200px;
+    left:5px;
+    top:200px;
+    background-color:burlywood;
+
+    color:black;
+
+}
+
+.promo1{
+    box-sizing:border-box;
+    width:300px;
+    height:200px;
+
+}
+
+.dealRect2{
+    box-sizing:border-box;
+    width:300px;
+    height:200px;
+
+    /*
+    left:150px;
+    top:200px;
+    */
+
+    background-color:cornflowerblue;
+
+    /*padding-left:100px;*/
+    margin-left:320px;
+    margin-top:-200px;
+
+    color:black;
+
+}
+
+.promo2 {
+    box-sizing: border-box;
+    width: 300px;
+    height: 200px;
+}
+
+.dealRect3{
+    box-sizing:border-box;
+    width:300px;
+    height:200px;
+
+    background-color:brown;
+
+    margin-left:640px;
+    margin-top:-200px;
+
+    color:bisque;
+}
+
+.promo3 {
+    box-sizing: border-box;
+    width: 300px;
+    height: 200px;
+}
+
+.deals2rect1{
+    box-sizing:border-box;
+    width:300px;
+    height:200px;
+    left:5px;
+    top:200px;
+
+    background-color:cadetblue;
+
+    color:bisque;
+    
+}
+
+.promo4 {
+    box-sizing: border-box;
+    width: 300px;
+    height: 200px;
+}
+
+.deals2rect2{
+    box-sizing:border-box;
+    width:300px;
+    height:200px;
+
+    background-color:darkgreen;
+    margin-left:320px;
+    margin-top:-200px;
+
+    color:bisque;
+}
+
+.promo5 {
+    box-sizing: border-box;
+    width: 300px;
+    height: 200px;
+}
+
+.deals2rect3{
+    box-sizing:border-box;
+    width:300px;
+    height:200px;
+    background-color:darkorange;
+    margin-left:640px;
+    margin-top:-200px;
+
+    color:black;
+}
+
+.promo6 {
+    box-sizing: border-box;
+    width: 300px;
+    height: 200px;
+}
+
+.prod1 {
+    /*some products here
+        maybe show an image of product
+    */
+
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    left: 10px;
+    top: 200px;
+    /*background-image: url('../Imgs/navimage1.jpg');
+        background-color:darkmagenta;
+
+        background:url(thing);
+
+        background-image: src('../Imgs/navimage1.jpg');
+
+    */
+
+    background-color:darkmagenta;
+
+    
+    color:bisque;
+}
+
+.prodimg1 {
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+}
+
+
+.prod2{
+    box-sizing:border-box;
+    width:200px;
+    height:200px;
+
+    background-color:darkgoldenrod;
+    margin-left: 220px;
+    margin-top:-200px;
+    color:bisque;
+}
+
+.prodimg2 {
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+}
+

@@ -1,0 +1,93 @@
+﻿
+
+/*fd
+    d
+    d
+
+    @media (min-width: 7000px){
+        somethinghere {
+            make something show/not show on screen
+        }
+
+    }
+
+    class = products1
+
+*/
+
+/*
+@media (max-width: 500px){
+    .products1{
+        display:none;
+        overflow:hidden;
+    }
+
+}
+
+    classes:
+    something
+    words
+
+    */
+
+/*
+
+.words{
+    display:grid;
+
+    column-width: 25px;
+    column-count: 5;
+    
+}
+    */
+
+
+    /*.something{
+        display: block;
+    }
+    .word{
+        display:none;
+    }
+        display properties:
+
+        block
+        inline-block
+        none
+        table-header-group
+        table-column
+        table-cell
+        inline-table
+        table-row
+        table-row-group
+        table
+        inline
+
+
+    */
+
+
+
+    /*
+@media(max-width: 650px){
+    .words{
+        display: none;
+    }
+}
+        it works! yeah!!
+        */
+
+
+.table1{
+    display:table;
+    color:blanchedalmond;
+}
+
+.table2{
+    display:table;
+    color: cornsilk;
+}
+
+.review{
+    background-color:darkcyan;
+    color:floralwhite;
+}
